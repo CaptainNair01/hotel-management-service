@@ -1,3 +1,8 @@
+# Project Description
+
+Developed a hotel room management system using Sanity.IO, handling everything from room setup to maintenance with easy-to-use CRUD operations. Implemented a room booking system with Stripe integration for secure and efficient reservation processes, allowing guests to make hassle-free payments. Ensured secure user access with Auth.JS for authentication and utilized TypeScript for reliable code structure, contributing to a robust and maintainable project
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
